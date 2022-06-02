@@ -91,7 +91,7 @@ Normal test for Effective School Leadership Score: <br />
 t-statistic - 3.137  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   p-val -  0.2083718151969694
 
 Collaborative Techers Score: <br />
-t-statistic - 4.720   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   p-val - 0.09443046789539254
+t-statistic - 4.720   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   p-val - 0.09443046789539254 
 
 Collaborative Techers Score: <br />
 t-statistic - 4.496   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   p-val - 0.10562521336387172
