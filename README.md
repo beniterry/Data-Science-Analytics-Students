@@ -1,7 +1,7 @@
 # Data-Science-Analytics-Students
 Pandas dataframe analysis on school's ability to support student success - scrubs, filters, and runs data analysis tests.
 
-# Output From Application TerryB_a7.py - Developed by Ben Terry
+## Output From Application TerryB_a7.py - Developed by Ben Terry
 
 
 Initiating scrubbing for part A...
